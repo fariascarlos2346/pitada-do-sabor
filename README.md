@@ -8,4 +8,8 @@
 <br>
 <p>No inicio do corpo da pagina dentro do body usei o <b>HTML</b> semantico, Header com div de container onde inseri as imagens, links, botão estilizados 
 e responsivos com <b>CSS</b>.</p>
+<br>
+<h2>Construido Seção Principal com<b>HTML </b> .</h2>
+<br>
+<p>Escolha de <b>Imagem e a Teg  Strong</b></p>
 
